@@ -1,15 +1,19 @@
 <?php
-/**
- * @wordpress-plugin
- * Plugin Name:       Elementor Pro Activ@tor
- * Plugin URI:        https://bit.ly/elm-act
- * Description:       Elementor Pro Plugin Activ@tor
- * Version:           1.4.0
- * Requires at least: 5.9.0
- * Requires PHP:      7.2
- * Author:            moh@medhk2
- * Author URI:        https://bit.ly/medhk2
- **/
+ /***
+ * Plugin Name: 		Elementor Pro Activator
+ * Plugin URI:			https://github.com/yasinekwf/elementor-pro-activator
+ * Description:			Elementor Pro Plugin Activ@tor 
+ * Version:          	1.4.0
+ * Requires at least: 	5.9.0
+ * Requires PHP:      	7.2
+ * Author:				KWF
+ * Author URI: 			https://kodingschools.com/
+ * License:     		GPL3
+ * License URI: 		https://www.gnu.org/licenses/gpl-3.0.html
+ * Text Domain: 		kwf-elementor-activator
+ * 
+***/
+
 defined( 'ABSPATH' ) || exit;
 
 use ElementorPro\License\Admin;
